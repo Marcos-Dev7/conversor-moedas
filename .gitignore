@@ -8,7 +8,7 @@ out/
 out/
 target/
 *.iml
-
+.env
 ### Eclipse ###
 .apt_generated
 .classpath
